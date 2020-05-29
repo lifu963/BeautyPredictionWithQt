@@ -2,7 +2,7 @@
 封装为小程序的颜值预测器。
 
 最终效果：
-
+https://mp.weixin.qq.com/s/LF1nD5PMsbcndaGY5oaKBQ
 数据集地址：https://github.com/HCIILAB/SCUT-FBP5500-Database-Release
 获取数据集后，我将评分数据处理为csv格式，方便读取。但那时是在jupyter notebook上完成数据的处理，处理后就删除了该文件。
 因此这部分源码缺失(hhh)，因此我就将处理后的label.csv直接上传上来了。
