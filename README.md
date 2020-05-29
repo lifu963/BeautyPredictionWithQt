@@ -12,3 +12,4 @@ utils/内提供了训练时可视化的工具。
 main.py 中的train函数完成了对模型的训练。
 test.py 中的test函数可以生成预测结果，并作为Qt.py的接口。
 在Qt.py 中完成了将脚本构建成小程序的工作。
+训练前请创建checkoutpoints文件夹存放训练完后生成的模型。
